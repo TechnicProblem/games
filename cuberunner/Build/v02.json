@@ -1,9 +1,9 @@
 {
 "companyName": "TechnicProblem",
 "productName": "CubeRunner",
-"dataUrl": "index.html.data.unityweb",
-"wasmCodeUrl": "index.html.wasm.code.unityweb",
-"wasmFrameworkUrl": "index.html.wasm.framework.unityweb",
+"dataUrl": "v02.data.unityweb",
+"wasmCodeUrl": "v02.wasm.code.unityweb",
+"wasmFrameworkUrl": "v02.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
